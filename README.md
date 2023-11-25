@@ -12,7 +12,7 @@ Projects:
 
 1- Discover Makkah <br>
 Graduation pooject about (Website to guide Makkah vistor)<br>
-Tools : React js - Tailwind - MUI - API's -  Node js - Dialogflow<br>
+Tools : React js - Tailwind - MUI React library - API's -  Node js - Dialogflow<br>
 <br>
 2- Get your quote <br>
 Web app generate random quotes<br>
@@ -21,7 +21,7 @@ https://get-quote-test.netlify.app/<br>
 <br>
 3- Todo list <br>
 Web app for todo list <br>
-Tools : React js - MUI library <br>
+Tools : React js - MUI React library <br>
 https://ghazi-todo-app-tset.netlify.app/<br>
 <br>
 4- Initial diagnosis<br>
