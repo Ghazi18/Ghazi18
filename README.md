@@ -39,8 +39,8 @@ Create - Read - Update - Delete for producr managment system using JavaScript<br
 Tools : HTML - CSS - JAVASCRIPT<br>
 https://ghazi-crud-js-tset.netlify.app/<br>
 <br>
-7- Wadi Makkah company website
-redesigne wadi makkah website while summer training period
-Tools : WordPress
-https://summertrainner.wmitproj.com/#
+7- Wadi Makkah company website<br>
+redesigne wadi makkah website while summer training period<br>
+Tools : WordPress<br>
+https://summertrainner.wmitproj.com/#<br>
 
