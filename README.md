@@ -10,27 +10,27 @@
 
 Projects:
 
-1- Discover Makkah
-Graduation pooject about (Website to guide Makkah vistor)
-Tools : React js - Tailwind - MUI - API's -  Node js - Dialogflow
-
-2- Get your quote 
-Web app generate random quotes
-Tools : React js - Tailwind
-https://get-quote-test.netlify.app/
-
-3- Todo list 
-Web app for todo list 
-Tools : React js - MUI library 
-https://ghazi-todo-app-tset.netlify.app/
-
-4- Initial diagnosis
-Web app for initial diagnosis for the patient using ChatGPT api
-Tools : HTML - CSS - JAVASCRIPT
-https://ghazi-diagnosis-test.netlify.app/
-
-5- CRUD operations
-Create - Read - Update - Delete for producr managment system using JavaScript
-Tools : HTML - CSS - JAVASCRIPT
-https://ghazi-crud-js-tset.netlify.app/
+1- Discover Makkah <br>
+Graduation pooject about (Website to guide Makkah vistor)<br>
+Tools : React js - Tailwind - MUI - API's -  Node js - Dialogflow<br>
+<br>
+2- Get your quote <br>
+Web app generate random quotes<br>
+Tools : React js - Tailwind<br>
+https://get-quote-test.netlify.app/<br>
+<br>
+3- Todo list <br>
+Web app for todo list <br>
+Tools : React js - MUI library <br>
+https://ghazi-todo-app-tset.netlify.app/<br>
+<br>
+4- Initial diagnosis<br>
+Web app for initial diagnosis for the patient using ChatGPT api<br>
+Tools : HTML - CSS - JAVASCRIPT<br>
+https://ghazi-diagnosis-test.netlify.app/<br>
+<br>
+5- CRUD operations<br>
+Create - Read - Update - Delete for producr managment system using JavaScript<br>
+Tools : HTML - CSS - JAVASCRIPT<br>
+https://ghazi-crud-js-tset.netlify.app/<br>
 
