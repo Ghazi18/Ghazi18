@@ -17,7 +17,7 @@ Tools : React js - Tailwind - MUI React library - API's -  Node js - Dialogflow<
 2- Jathwah site <br>
 Website for a startup company<br>
 Tools : Next js - Tailwind<br>
-jathwah.sa<br>
+www.jathwah.sa
 <br>
 <br>
 3- Share your story <br>
