@@ -4,7 +4,7 @@
 
 ⚡ Learning WEB DEV
 
-⚡ Present REACT JS
+⚡ Present REACT JS , Next JS
 
 ⚡ Future FULL STACK
 
