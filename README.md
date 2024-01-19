@@ -60,7 +60,7 @@ Tools : React js - Tailwind - MUI React library - API's -  Node js - Dialogflow
 <h2>2- Jathwah site</h2> <br>
 Website for a startup company<br>
 Tools : Next js - Tailwind<br>
-<a target="_blank" href="www.jathwah.sa">www.jathwah.sa</a>
+www.jathwah.sa
 <br>
 <br>
 <h2>3- Share your story</h2> <br>
