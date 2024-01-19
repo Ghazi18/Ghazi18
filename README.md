@@ -10,7 +10,7 @@
 
 ⚡ Future FULL STACK
 
-⚡ I’m looking to work on Web development
+⚡ I’m looking forward to improvement and professionalism whether in theis Web field or in other areas.
 
 
 
