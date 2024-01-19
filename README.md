@@ -8,6 +8,8 @@
 
 ⚡ Present REACT JS , Next JS
 
+⚡ Work on some personal projects and clients projects
+
 ⚡ Future FULL STACK
 
 ⚡ I’m looking forward to improvement and professionalism whether in theis Web field or in other areas.
