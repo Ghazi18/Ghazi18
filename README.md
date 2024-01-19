@@ -25,7 +25,7 @@ Web app to share your story to thr public with likes button<br>
 Tools : Next js - Prisma - supabase - Tailwind<br>
 https://story-site.vercel.app/<br>
 <br>
-<br>
+
 4- Get your quote <br>
 Web app generate random quotes<br>
 Tools : React js - Tailwind<br>
