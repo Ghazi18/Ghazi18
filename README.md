@@ -98,7 +98,12 @@ https://ghazi-crud-js-tset.netlify.app/<br>
 <h2>9- Wadi Makkah company website</h2><br>
 redesigne wadi makkah website while summer training period<br>
 Tools : WordPress<br>
-https://summertrainner.wmitproj.com/#<br><br><br>
+https://summertrainner.wmitproj.com/#<br>
+<br>
+<h2>10- Wadi Makkah company dashboard</h2><br>
+redesigne wadi makkah website while summer training period and add dashboard for admin for CMS<br>
+Tools : PHP Laravel framework<br>
+<br><br>
 
 
 
