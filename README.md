@@ -37,9 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&labelColor=orange&logo=Figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&labelColor=blue&logo=WordPress&logoColor=white)
-![html](https://img.shields.io/badge/html-orange?style=for-the-badge&labelColor=orange&logo=html&logoColor=F0DB4F)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=blue&logo=CSS&logoColor=F0DB4F)
-
 
 <h1>Github status:</h1>
 <p align="left">
