@@ -80,7 +80,6 @@ Tools : React js - MUI React library - Weather api<br>
 <h2>7- Initial diagnosis</h2><br>
 Web app for initial diagnosis for the patient using ChatGPT api<br>
 Tools : HTML - CSS - JAVASCRIPT<br>
-https://ghazi-diagnosis-test.netlify.app/<br>
 <br>
 <h2>8- CRUD operations</h2><br>
 Create - Read - Update - Delete for producr managment system using JavaScript<br>
