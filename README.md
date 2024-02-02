@@ -76,7 +76,6 @@ https://ghazi-todo-app-tset.netlify.app/<br>
 <h2>6- Makkah Weather</h2><br>
 Web app for show Makkah weather<br>
 Tools : React js - MUI React library - Weather api<br>
-https://ghaiz-weather-app-test.netlify.app/<br>
 <br>
 <h2>7- Initial diagnosis</h2><br>
 Web app for initial diagnosis for the patient using ChatGPT api<br>
@@ -86,7 +85,6 @@ https://ghazi-diagnosis-test.netlify.app/<br>
 <h2>8- CRUD operations</h2><br>
 Create - Read - Update - Delete for producr managment system using JavaScript<br>
 Tools : HTML - CSS - JAVASCRIPT<br>
-https://ghazi-crud-js-tset.netlify.app/<br>
 <br>
 <h2>9- Wadi Makkah company website</h2><br>
 redesigne wadi makkah website while summer training period<br>
