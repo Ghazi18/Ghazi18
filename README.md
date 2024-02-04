@@ -24,7 +24,7 @@
 
 <h1>My portfolio</h1>
 <p align="left">
- <a href="www.ghazi-dev.com" target="_blank">
+ <a href="https://www.ghazi-dev.com/" target="_blank">
   ghazi-dev.com
  </a>
 
