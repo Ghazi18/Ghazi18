@@ -22,6 +22,12 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 
+<h1>My portfolio</h1>
+<p align="left">
+ <a href="www.ghazi-dev.com" target="_blank">
+  ghazi-dev.com
+ </a>
+
 <h1>Use to code:</h1>
 
 
