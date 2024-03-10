@@ -72,7 +72,7 @@ https://story-site.vercel.app/<br>
 <h2>4- OSUL WEBSITE</h2> <br>
 One of my projects is with the Kerneltics team where I was the project manager and also the front-end developer for some components.<br>
 Tools : React js - Tailwind - Mangment<br>
-https://story-site.vercel.app/<br>
+https://osol.kerneltics.com/<br>
 <br>
 <h2>5- Get your quote</h2> <br>
 Web app generate random quotes<br>
