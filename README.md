@@ -77,7 +77,7 @@ https://osol.kerneltics.com/<br>
 <h2>5- Photographer portfolio website</h2> <br>
 One of my projects with Kerneltics team where I was the project manager and also the front-end developer for some components, its a portfolio where can the photographer show his work in a professional way.<br>
 Tools : React js - Tailwind - Mangment<br>
-https://osol.kerneltics.com/<br>
+http://photographer.kerneltics.com/<br>
 <br>
 <h2>6- Get your quote</h2> <br>
 Web app generate random quotes<br>
