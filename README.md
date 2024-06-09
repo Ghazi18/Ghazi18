@@ -82,6 +82,7 @@ http://photographer.kerneltics.com/<br>
 <h2>6- An internal site for displaying reports</h2> <br>
 One of my contributions to improving work during the Hajj season is in the Nusuk Cards project, aimed at displaying reports to the team and supervisors more clearly, attractively, and quickly.<br>
 Tools : React js - Tailwind - Google sheet - Google API<br>
+https://reports1.vercel.app/
 <br>
 <br>
 <h2>6- Get your quote</h2> <br>
