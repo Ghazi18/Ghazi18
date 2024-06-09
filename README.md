@@ -85,34 +85,34 @@ Tools : React js - Tailwind - Google sheet - Google API<br>
 https://reports1.vercel.app/
 <br>
 <br>
-<h2>6- Get your quote</h2> <br>
+<h2>7- Get your quote</h2> <br>
 Web app generate random quotes<br>
 Tools : React js - Tailwind<br>
 https://get-quote-test.netlify.app/<br>
 <br>
-<h2>7- Todo list</h2> <br>
+<h2>8- Todo list</h2> <br>
 Web app for todo list <br>
 Tools : React js - MUI React library <br>
 https://ghazi-todo-app-tset.netlify.app/<br>
 <br>
-<h2>8- Makkah Weather</h2><br>
+<h2>9- Makkah Weather</h2><br>
 Web app for show Makkah weather<br>
 Tools : React js - MUI React library - Weather api<br>
 <br>
-<h2>9- Initial diagnosis</h2><br>
+<h2>10- Initial diagnosis</h2><br>
 Web app for initial diagnosis for the patient using ChatGPT api<br>
 Tools : HTML - CSS - JAVASCRIPT<br>
 <br>
-<h2>10- CRUD operations</h2><br>
+<h2>11- CRUD operations</h2><br>
 Create - Read - Update - Delete for producr managment system using JavaScript<br>
 Tools : HTML - CSS - JAVASCRIPT<br>
 <br>
-<h2>11- Wadi Makkah company website</h2><br>
+<h2>12- Wadi Makkah company website</h2><br>
 redesigne wadi makkah website while summer training period<br>
 Tools : WordPress<br>
 https://summertrainner.wmitproj.com/#<br>
 <br>
-<h2>12- Wadi Makkah company dashboard</h2><br>
+<h2>13- Wadi Makkah company dashboard</h2><br>
 redesigne wadi makkah website while summer training period and add dashboard for admin for CMS<br>
 Tools : PHP Laravel framework<br>
 <br><br>
