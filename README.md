@@ -63,57 +63,62 @@ https://drive.google.com/drive/folders/1xyuEE6HOsnqzjFXB77P6gjvvcFxkHGdx?usp=sha
 Website for a startup company<br>
 Tools : Next js - Tailwind<br>
 www.jathwah.sa
+<br><br>
+<h2>3- KnowledgeX site</h2> <br>
+Website for a KnowledgeX company<br>
+Tools : React JS - Tailwind<br>
+https://knowledgex.sa/kofactor
 <br>
 <br>
-<h2>3- Share your story</h2> <br>
+<h2>4- Share your story</h2> <br>
 Web app to share your story to thr public with likes button<br>
 Tools : Next js - Prisma - supabase - Tailwind<br>
 https://story-site.vercel.app/<br>
 <br>
-<h2>4- OSUL website</h2> <br>
+<h2>5- OSUL website</h2> <br>
 One of my projects with Kerneltics team where I was the project manager and also the front-end developer for some components, its about the real estate in Saudi Arabia.<br>
 Tools : React js - Tailwind - Mangment<br>
 https://osol.kerneltics.com/<br>
 <br>
-<h2>5- Photographer portfolio website</h2> <br>
+<h2>6- Photographer portfolio website</h2> <br>
 One of my projects with Kerneltics team where I was the project manager and also the front-end developer for some components, its a portfolio where can the photographer show his work in a professional way.<br>
 Tools : React js - Tailwind - Mangment<br>
 http://photographer.kerneltics.com/<br>
 <br>
-<h2>6- An internal site for displaying reports</h2> <br>
+<h2>7- An internal site for displaying reports</h2> <br>
 One of my contributions to improving work during the Hajj season is in the Nusuk Cards project, aimed at displaying reports to the team and supervisors more clearly, attractively, and quickly.<br>
 Tools : React js - Tailwind - Google sheet - Google API<br>
 https://reports1.vercel.app/
 <br>
 <br>
-<h2>7- Get your quote</h2> <br>
+<h2>8- Get your quote</h2> <br>
 Web app generate random quotes<br>
 Tools : React js - Tailwind<br>
 https://get-quote-test.netlify.app/<br>
 <br>
-<h2>8- Todo list</h2> <br>
+<h2>9- Todo list</h2> <br>
 Web app for todo list <br>
 Tools : React js - MUI React library <br>
 https://ghazi-todo-app-tset.netlify.app/<br>
 <br>
-<h2>9- Makkah Weather</h2><br>
+<h2>10- Makkah Weather</h2><br>
 Web app for show Makkah weather<br>
 Tools : React js - MUI React library - Weather api<br>
 <br>
-<h2>10- Initial diagnosis</h2><br>
+<h2>11- Initial diagnosis</h2><br>
 Web app for initial diagnosis for the patient using ChatGPT api<br>
 Tools : HTML - CSS - JAVASCRIPT<br>
 <br>
-<h2>11- CRUD operations</h2><br>
+<h2>12- CRUD operations</h2><br>
 Create - Read - Update - Delete for producr managment system using JavaScript<br>
 Tools : HTML - CSS - JAVASCRIPT<br>
 <br>
-<h2>12- Wadi Makkah company website</h2><br>
+<h2>13- Wadi Makkah company website</h2><br>
 redesigne wadi makkah website while summer training period<br>
 Tools : WordPress<br>
 https://summertrainner.wmitproj.com/#<br>
 <br>
-<h2>13- Wadi Makkah company dashboard</h2><br>
+<h2>14- Wadi Makkah company dashboard</h2><br>
 redesigne wadi makkah website while summer training period and add dashboard for admin for CMS<br>
 Tools : PHP Laravel framework<br>
 <br><br>
