@@ -18,9 +18,10 @@
 
 <h1>Contact</h1>
 <p align="left">
- <a href="https://twitter.com/soyghazi" target="_blank">
+<!--  <a href="https://twitter.com/soyghazi" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
+ </a> -->
+ Email : suruji.188@gmail.com
 
 <h1>My portfolio</h1>
 <p align="left">
